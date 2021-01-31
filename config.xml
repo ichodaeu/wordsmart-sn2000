@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.english1234wordmaster.android"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Wordmaster SN2000</name>
+
+  <description>
+      워드마스터 수능2000 단어암기헬퍼
+  </description>
+
+  <author href="https://english1234.tistory.com" email=english4843@outlook.kr"support@phonegap.com">
+      Peter Monk
+  </author>
+
+
+  <icon src="icon.png" />
+  
+</widget>
